@@ -4,12 +4,12 @@
         <title>Flow</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Fri, 12 Jun 2026 21:42:27 +0300</pubDate>
+            <pubDate>Fri, 12 Jun 2026 21:49:48 +0300</pubDate>
             <sparkle:version>40</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/that-one-arab/flow-releases/releases/download/v0.1.0.40/Flow-0.1.0.40.zip" length="17623258" type="application/octet-stream" sparkle:edSignature="51wClR8r+T89E5IRf6iXjI66fxmFEp8dOBQWh75ua1mSvgkHjGxtTZ0qgmrKsHqjlidMgWJS9f2FdcY+cR5MDw=="/>
+            <enclosure url="https://github.com/that-one-arab/flow-releases/releases/download/v0.1.0.40/Flow-0.1.0.40.zip" length="17623251" type="application/octet-stream" sparkle:edSignature="pdwPsAEYfQQauBIPQ33vNQC33c3o1OpYDAxgoNQEKnadPWKOVM0WmErjMMgxuz8otDxmg1lTKvmPT6xUyY+NCA=="/>
         </item>
     </channel>
 </rss>
